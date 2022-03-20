@@ -1,4 +1,3 @@
-bacground
 
 ### Oi pessoal, eu sou Leandro Sousa, ou Leh como preferir 👋
 
