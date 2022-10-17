@@ -4,9 +4,10 @@
 ##
 
 - 🔭 Atualmente trabalho como Analista de Suporte
-- 🌱 Estou estudando JavaScript
+- 🌱 Estou estudando JavaScript, TypeScript e React
 - 👯 Criei a Senitte desenvolvimento com o objetivo de viver de desenvolvimento web - https://senitte.com.br/
 - 😄 ele/dele
+- 🔓 Aberto para novas oportunidades
 
 ##
 
