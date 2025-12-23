@@ -68,5 +68,12 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/lehsousa/lehsousa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://senitte.com.br/">
+    <img src="https://github.com/lehsousa/lehsousa/blob/392054a2bacaf9cec1a47f9faf7eb7688b7f52be/senitte-banner.png" width="10%" style="border-radius: 10px;" alt="Senitte Tech Banner"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://senitte.com.br/">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F7931E&text=SENITTE&height=100&fontSize=70&animation=fadeIn" alt="SENITTE"/>
+  </a>
 </div>
